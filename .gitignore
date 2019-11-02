@@ -1,2 +1,3 @@
-config/
+# Generated if you test run the build
+config/nginx.conf
 logs/
